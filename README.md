@@ -5,4 +5,4 @@ The singleton pattern was implemented by creating a PowerupManager script which 
 
 When you start the game, you control the player with A = left, D = right, Space = jump. You must reach the highest point of the level which is 2 blocks higher than the starting point. On the way you will collect a gold speed powerup which will temporarily increase the player's speed, until they reach a point where the powerup wears off.
 
-I had to delete the library folder from the project files because git would not let me upload the game with it for some reason and i was running out of time to submit. Sorry about that.
+I had to delete the library folder from the project files because git would not let me upload the game with it for some reason and i was running out of time to submit, although it should be fine to put a regular unity project library files into mine. Sorry for the inconvenience.
